@@ -10,13 +10,13 @@
 ### 2.telnet maths.whu.edu.cn 80：
 ##### 结果：
 ![image](img_hw3/2_1.PNG)
-![image](2_2.PNG)
+![image](img_hw3/2_2.PNG)
 ##### 遇到的问题：
 ①随意进了一个html如下，在Request Header右侧需要点击view parse变成 view source才能正确看见请求头前两行。
-![image](2_3.PNG)
+![image](img_hw3/2_3.PNG)
 ****
 ### 3.P9 题目：
-![image](hw3_p9.PNG)
+![image](img_hw3/hw3_p9.PNG)
 ##### 答案：
 a.  
 850000b / 15Mbps = 0.0567s ①  
@@ -33,7 +33,7 @@ t = (t1 + t2) * 0.6 + t3 * 0.4 = 1.87464s + 0.0034s = 1.87804s
   
 ****
 ### 3.P10 题目：
-![image](hw3_p10.PNG)
+![image](img_hw3/hw3_p10.PNG)
 ##### 答案：
 每个下载的对象都可以完全放入一个数据包中。  
 让TP表示客户端和服务器之间的单向传播延迟。  
