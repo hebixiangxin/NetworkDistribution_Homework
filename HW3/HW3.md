@@ -5,19 +5,19 @@
 ![image](img_hw3/1_1.PNG)
 ![image](img_hw3/1_2.PNG)
 #####     遇到的问题：
-    ①在小米笔记本windows启用或关闭服务选项里面，无法显示服务内容，经查询空白是注册表内容和系统冲突，修改后仍然解决不了，原因显示windows一些镜像无法自我修复。
-    ![image](img_hw3/error1.PNG)
-    ②放弃用系统的talnet服务，自行下载了Telnet客户端代替，自此可正常使用telnet.exe。
-    ③我的武大邮箱密码忘记了，经过反复试验后，由于输入密码错误次数太多，邮箱被锁了。
-    ![image](img_hw3/error2.PNG)
-    ④邮箱挂起状态，返回505 user suspended错误，mail verified failed。
-    ⑤邮箱解除挂起后，遇到503错误，在base64加密账号和密码之后，验证成功。
+   ①在小米笔记本windows启用或关闭服务选项里面，无法显示服务内容，经查询空白是注册表内容和系统冲突，修改后仍然解决不了，原因显示windows一些镜像无法自我修复。
+![image](img_hw3/error1.PNG)
+   ②放弃用系统的talnet服务，自行下载了Telnet客户端代替，自此可正常使用telnet.exe。
+   ③我的武大邮箱密码忘记了，经过反复试验后，由于输入密码错误次数太多，邮箱被锁了。
+![image](img_hw3/error2.PNG)
+   ④邮箱挂起状态，返回505 user suspended错误，mail verified failed。
+   ⑤邮箱解除挂起后，遇到503错误，在base64加密账号和密码之后，验证成功。
 ****
 ### 2.telnet maths.whu.edu.cn 80：
 #####     结果：
 ![image](img_hw3/2_1.PNG)
 ![image](img_hw3/2_2.PNG)
-#####     遇到的问题：
+##### 遇到的问题：
 ①随意进了一个html如下，在Request Header右侧需要点击view parse变成 view source才能正确看见请求头前两行。
 ![image](img_hw3/2_3.PNG)
 ****
